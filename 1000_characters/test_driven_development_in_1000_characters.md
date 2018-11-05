@@ -1,6 +1,4 @@
-#Test Driven Development in 1000 characters
-
-Test Driven Development (TDD) is a practice that consists of writing tests before production code to guarantee the quality of the code.
+Test Driven Development (TDD) is a practice of Extreme Programming consisting in writing tests before production code to guarantee the code quality.
 
 Development process is divided in 3 steps:
 - Red: write a failing test
@@ -15,4 +13,4 @@ It can also help to make a clean design appear progressively. As Uncle Bob says:
 
 TDD helps team to write code that is easier to maintain and less risky to deliver.
 
-TDD is often difficult to learn, especially on real life projects. Code katas are helpful to master this practice progressively.
+TDD is often difficult to learn, especially on real life projects. Code katas are helpful to master this practice progressively with more simple use cases.
