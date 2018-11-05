@@ -1,0 +1,4 @@
+Time is precious, this is a resources we would all be glad if we could have more. Although long detailed articles are great to learn a lot about a subject, I think some very small posts to present a topic briefly can be a good kickstarter.
+So, I’d like to try a format of very short articles, to give an overview of a subject related to software craftsmanship in only 1000 characters. This may be a difficult constraint, but summarizing complex topics in this very small format will also help me to only talk about the core principles, the ones that should be remembered even if readers don’t go deeper with other posts.
+And I also hope that it will help me write more on dev.to ;-)
+My first article in this « Less than 1000 characters » series will be about Test Driven Development. Don’t hesitate to propose some topics you would like to read about !
